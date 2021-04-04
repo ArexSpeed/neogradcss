@@ -1,5 +1,5 @@
 Welcome to the neogradcss wiki!
-This is a simplified version of docs for more detail invite you to https://neogradcss.web.app/docs
+This is a simplified version of docs for more details check https://neogradcss.web.app/docs
 
 ## Get Started
 
